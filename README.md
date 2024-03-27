@@ -13,7 +13,9 @@ Features-
 
 Findings & Insights-
 * High demand from Australia, Malaysia, and South Korea suggests potential key markets for British Airways to focus on for marketing and route expansion strategies.
-* Preference for online booking channels underscores the importance of investing in digital platforms and marketing efforts to cater to customer preferences.
+* Online booking channels, particularly internet services, are highly preferred by passengers, highlighting the need for British Airways to focus on enhancing its online booking platform and digital marketing 
+  strategies to better cater to customer preferences.
 * Strong preference for specific seat types, especially among solo travelers, highlights the need for effective seat allocation systems to enhance customer satisfaction.
-* Dominance of round trip bookings indicates customer preference for convenience and potential opportunities to offer bundled packages or promotions.
+* The dominance of round trip bookings over one-way or circle trips suggests that passengers prefer the convenience and flexibility of booking return flights, providing an opportunity for British Airways to offer 
+  attractive round trip packages and promotions to capitalize on this trend.
 * Significant proportion of passengers opting out of in-flight meals suggests potential for diversifying meal options or improving meal offerings to better meet passenger preferences.
