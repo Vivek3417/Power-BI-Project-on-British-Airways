@@ -1,6 +1,7 @@
 # Power-BI-Dashboard-on-British-Airways
 
 Discription-
+
 This Power BI project analyzes booking patterns and passenger preferences within British Airways using a dataset containing information on booking origins, sales channels, trip types, seating preferences, and in-flight meal selections. The dashboard provides visualizations and insights to help understand customer behavior, optimize service offerings, and enhance the overall travel experience for passengers.
 
 Features-
